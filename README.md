@@ -1,7 +1,8 @@
 # Zillow-clone
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+## Michael A. Smith, Haley Bristol, Taylor Grohs, Nathan Otto.
+
+This is a website that was built using the EmberJS framework that mimics the Zillow website. Using Zillow and Google's API's we can emulate the core features of Zillow. 
 
 ## Prerequisites
 
@@ -50,4 +51,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
