@@ -3,9 +3,11 @@
     <form>
       <div class="form-group">
         <label for="address"></label>
-        {{input value=address id="address"}}
+        {{input class="long" value=address id="address"}}
       </div>
       <button action='standardGeocode'>SEARCH</button>
     </form>
 </div>
 <br>
+
+{{log address}}

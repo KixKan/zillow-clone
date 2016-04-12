@@ -4,6 +4,7 @@ export default Ember.Component.extend({
   gMap: Ember.inject.service(),
 
   actions: {
+
     standardGeocode(address) {
       this.get('gMap')
         .geocode({address})
@@ -13,6 +14,5 @@ export default Ember.Component.extend({
         })
         .catch((err) => console.error(err));
     }
-  }
-
+  },
 });
