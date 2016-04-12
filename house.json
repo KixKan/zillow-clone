@@ -19,5 +19,12 @@
   "image": "http://photos2.zillowstatic.com/p_f/IShj2636zrrjw91000000000.jpg",
   "bedrooms": 3,
   "price": "224,900"
+},{
+  "street": "1500 SW 11th ave, unit 1602",
+  "cityState": "Portland, OR",
+  "type": "condo",
+  "image": "http://photos1.zillowstatic.com/p_f/ISxjldjvclptoq0000000000.jpg",
+  "bedrooms": 2,
+  "price": "525,000"
   }]
 }
