@@ -1,7 +1,7 @@
 import Ember from 'ember';
 
 export default Ember.Route.extend({
-  
+
 
   setupController: function(controller) {
    controller.setProperties({
@@ -17,8 +17,6 @@ export default Ember.Route.extend({
          layer: 'floatPane',       // Id of any of the layers defined in google.maps.MapPanes
          verticalAlign: 'top',      // middle | bottom
          horizontalAlign: 'center', // left | right
-         horizontalOffset: 50,      // in pixels
-         verticalOffset: 50,        // in pixels
          click: function(event, overlay) {
            alert("hey!");
          },
@@ -37,8 +35,6 @@ export default Ember.Route.extend({
          layer: 'floatPane',       // Id of any of the layers defined in google.maps.MapPanes
          verticalAlign: 'top',      // middle | bottom
          horizontalAlign: 'center', // left | right
-         horizontalOffset: 50,      // in pixels
-         verticalOffset: 50,        // in pixels
          click: function(event, overlay) {
            alert("yo!");
          },
