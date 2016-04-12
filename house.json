@@ -40,5 +40,12 @@
   "image": "http://photos3.zillowstatic.com/p_f/ISlul7777pr71m1000000000.jpg",
   "bedrooms": 3,
   "price": "459,000"
+},{
+  "street": "711 NE Randall Ave",
+  "cityState": "Portland, OR",
+  "type": "Foreclosure",
+  "image": "https://i.ytimg.com/vi/FJoT5aKmxis/hqdefault.jpg",
+  "bedrooms": 1,
+  "price": "180,006"
   }]
 }

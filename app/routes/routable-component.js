@@ -109,6 +109,23 @@ export default Ember.Route.extend({
          mouseover: function(event, overlay) {},
          mousemove: function(event, overlay) {},
          mouseout: function(event, overlay) {}
+       },
+       {
+         id: '6',         // Recommended
+         lat: 45.528392,  // Required
+         lng: -122.638391,        // Required
+         content: '<a href="http://localhost:4200/detail/6"><h4 class="glyphicon glyphicon-home"></h4></a>',
+         layer: 'floatPane',       // Id of any of the layers defined in google.maps.MapPanes
+         verticalAlign: 'top',      // middle | bottom
+         horizontalAlign: 'center', // left | right
+         click: function(event, overlay) {
+         },
+         dblclick: function(event, overlay) {},
+         mouseup: function(event, overlay) {},
+         mousedown: function(event, overlay) {},
+         mouseover: function(event, overlay) {},
+         mousemove: function(event, overlay) {},
+         mouseout: function(event, overlay) {}
        }
      ])
    });
