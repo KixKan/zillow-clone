@@ -1,0 +1,9 @@
+{ "houses": [{
+  "street": "111 SW 5th ave",
+  "cityState": "Portland, OR",
+  "type": "office tower",
+  "image": "http://thingsaboutportlandthatsuck.com/wp-content/uploads/2008/05/bigpink.jpg",
+  "bedrooms": 300,
+  "price": 50000000
+  }]
+}
