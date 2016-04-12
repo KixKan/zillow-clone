@@ -8,7 +8,7 @@ const Router = Ember.Router.extend({
 Router.map(function() {
   this.route('routable-component');
   this.route('test');
-  this.route('detail');
+  this.route('detail', {path: '/detail/:house_id'});
 });
 
 export default Router;

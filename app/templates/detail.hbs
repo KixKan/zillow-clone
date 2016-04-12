@@ -1,4 +1,19 @@
 <h2>Property Details</h2>
-{{#each model as |house|}}
-  {{house-tile house=house}}
-{{/each}}
+
+<h3>{{model.type}}</h3>
+<p>
+  ${{model.price}}
+</p>
+<p>
+  {{model.street}}
+</p>
+
+<p>
+  {{model.cityState}}
+</p>
+<p>
+  <img src={{model.image}} alt="" />
+</p>
+<p>
+  {{model.bedrooms}} Bedrooms
+</p>

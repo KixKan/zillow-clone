@@ -1,7 +1,7 @@
 import Ember from 'ember';
 
 export default Ember.Route.extend({
-  model() {
-    return this.store.findAll('house');
+  model(params) {
+    return this.store.findRecord('house', params.house_id);
   },
 });

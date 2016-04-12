@@ -4,6 +4,20 @@
   "type": "office tower",
   "image": "http://thingsaboutportlandthatsuck.com/wp-content/uploads/2008/05/bigpink.jpg",
   "bedrooms": 300,
-  "price": 50000000
+  "price": "50,000,000"
+},{
+  "street": "111 SW 5th ave",
+  "cityState": "Portland, OR",
+  "type": "cottage",
+  "image": "http://photos1.zillowstatic.com/p_f/IS1jjiefip5j3m0000000000.jpg",
+  "bedrooms": 3,
+  "price": "550,000"
+},{
+  "street": "8945 N Calvert Ave",
+  "cityState": "Portland, OR",
+  "type": "town house",
+  "image": "http://photos2.zillowstatic.com/p_f/IShj2636zrrjw91000000000.jpg",
+  "bedrooms": 3,
+  "price": "224,900"
   }]
 }
