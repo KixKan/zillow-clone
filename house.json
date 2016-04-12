@@ -26,5 +26,19 @@
   "image": "http://photos1.zillowstatic.com/p_f/ISxjldjvclptoq0000000000.jpg",
   "bedrooms": 2,
   "price": "525,000"
+},{
+  "street": "2122 SE Belmont St, #2128",
+  "cityState": "Portland, OR",
+  "type": "house",
+  "image": "http://photos2.zillowstatic.com/p_h/ISd01h6u6gcant0000000000.jpg",
+  "bedrooms": 8,
+  "price": "1,475,000"
+},{
+  "street": "1109 NE Skidmore St",
+  "cityState": "Portland, OR",
+  "type": "house",
+  "image": "http://photos3.zillowstatic.com/p_f/ISlul7777pr71m1000000000.jpg",
+  "bedrooms": 3,
+  "price": "459,000"
   }]
 }
