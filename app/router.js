@@ -7,6 +7,8 @@ const Router = Ember.Router.extend({
 
 Router.map(function() {
   this.route('routable-component');
+  this.route('test');
+  this.route('detail');
 });
 
 export default Router;
