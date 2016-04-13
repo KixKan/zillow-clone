@@ -83,11 +83,39 @@
   "bedrooms": 3,
   "price": "539,000"
 },{
-  "street": "402 SE 180th Ave",
+  "street": "402 SE 108th Ave",
   "cityState": "Portland, OR",
   "type": "Single Story",
   "image": "http://photos2.zillowstatic.com/p_h/ISp1m37dnnh1mn0000000000.jpg",
   "bedrooms": 4,
   "price": "229,500"
+},{
+  "street": "7325 SE Yamhill St",
+  "cityState": "Portland, OR",
+  "type": "Bungalow",
+  "image": "http://photos2.zillowstatic.com/p_h/ISpxa8caqg0ukt0000000000.jpg",
+  "bedrooms": 3,
+  "price": "475,000"
+},{
+  "street": "6127 SE Bush St",
+  "cityState": "Portland, OR",
+  "type": "Single-level",
+  "image": "http://photos1.zillowstatic.com/p_h/ISdks7ljpeq9431000000000.jpg",
+  "bedrooms": 3,
+  "price": "335,000"
+},{
+  "street": "7626 SE Martins St.",
+  "cityState": "Portland, OR",
+  "type": "New-consruction",
+  "image": "http://photos1.zillowstatic.com/p_h/ISl6ngsaerknj01000000000.jpg",
+  "bedrooms": 4,
+  "price": "449,900"
+},{
+  "street": "3706 SE Schiller St.",
+  "cityState": "Portland, OR",
+  "type": "Early Century",
+  "image": "http://photos3.zillowstatic.com/p_h/IS9tcq6xdupxnm0000000000.jpg",
+  "bedrooms": 3,
+  "price": "610,000"
   }]
 }

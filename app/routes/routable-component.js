@@ -214,9 +214,77 @@ export default Ember.Route.extend({
        },
        {
          id: '12',         // Recommended
-         lat: 45.518483,  // Required
-         lng: -122.477085,        // Required
+         lat: 45.519682,  // Required
+         lng: -122.552242,        // Required
          content: '<a href="http://localhost:4200/detail/12"><h4 class="glyphicon glyphicon-home"></h4></a>',
+         layer: 'floatPane',       // Id of any of the layers defined in google.maps.MapPanes
+         verticalAlign: 'top',      // middle | bottom
+         horizontalAlign: 'center', // left | right
+         click: function(event, overlay) {
+         },
+         dblclick: function(event, overlay) {},
+         mouseup: function(event, overlay) {},
+         mousedown: function(event, overlay) {},
+         mouseover: function(event, overlay) {},
+         mousemove: function(event, overlay) {},
+         mouseout: function(event, overlay) {}
+       },
+       {
+         id: '13',         // Recommended
+         lat: 45.516527,  // Required
+         lng: -122.586926,        // Required
+         content: '<a href="http://localhost:4200/detail/13"><h4 class="glyphicon glyphicon-home"></h4></a>',
+         layer: 'floatPane',       // Id of any of the layers defined in google.maps.MapPanes
+         verticalAlign: 'top',      // middle | bottom
+         horizontalAlign: 'center', // left | right
+         click: function(event, overlay) {
+         },
+         dblclick: function(event, overlay) {},
+         mouseup: function(event, overlay) {},
+         mousedown: function(event, overlay) {},
+         mouseover: function(event, overlay) {},
+         mousemove: function(event, overlay) {},
+         mouseout: function(event, overlay) {}
+       },
+       {
+         id: '14',         // Recommended
+         lat: 45.516527,  // Required
+         lng: -122.586926,        // Required
+         content: '<a href="http://localhost:4200/detail/14"><h4 class="glyphicon glyphicon-home"></h4></a>',
+         layer: 'floatPane',       // Id of any of the layers defined in google.maps.MapPanes
+         verticalAlign: 'top',      // middle | bottom
+         horizontalAlign: 'center', // left | right
+         click: function(event, overlay) {
+         },
+         dblclick: function(event, overlay) {},
+         mouseup: function(event, overlay) {},
+         mousedown: function(event, overlay) {},
+         mouseover: function(event, overlay) {},
+         mousemove: function(event, overlay) {},
+         mouseout: function(event, overlay) {}
+       },
+       {
+         id: '15',         // Recommended
+         lat: 45.478919,  // Required
+         lng: -122.584687,        // Required
+         content: '<a href="http://localhost:4200/detail/15"><h4 class="glyphicon glyphicon-home"></h4></a>',
+         layer: 'floatPane',       // Id of any of the layers defined in google.maps.MapPanes
+         verticalAlign: 'top',      // middle | bottom
+         horizontalAlign: 'center', // left | right
+         click: function(event, overlay) {
+         },
+         dblclick: function(event, overlay) {},
+         mouseup: function(event, overlay) {},
+         mousedown: function(event, overlay) {},
+         mouseover: function(event, overlay) {},
+         mousemove: function(event, overlay) {},
+         mouseout: function(event, overlay) {}
+       },
+       {
+         id: '16',         // Recommended
+         lat: 45.487914,  // Required
+         lng: -122.624457,        // Required
+         content: '<a href="http://localhost:4200/detail/16"><h4 class="glyphicon glyphicon-home"></h4></a>',
          layer: 'floatPane',       // Id of any of the layers defined in google.maps.MapPanes
          verticalAlign: 'top',      // middle | bottom
          horizontalAlign: 'center', // left | right
