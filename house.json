@@ -54,5 +54,19 @@
   "image": "http://photos1.zillowstatic.com/p_h/ISd0x1omvqkja21000000000.jpg",
   "bedrooms": 4,
   "price": "925,000"
+},{
+  "street": "4933 SW Lodi Ln",
+  "cityState": "Portland, OR",
+  "type": "Classic",
+  "image": "http://photos2.zillowstatic.com/p_h/IS1v4ja13nm9tn1000000000.jpg",
+  "bedrooms": 4,
+  "price": "1,250,000"
+},{
+  "street": "6144 N Willamette Blvd",
+  "cityState": "Portland, OR",
+  "type": "Charming",
+  "image": "http://photos3.zillowstatic.com/p_h/IS9x7laqvselhy0000000000.jpg",
+  "bedrooms": 2,
+  "price": "399,950"
   }]
 }
