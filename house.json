@@ -1,7 +1,7 @@
 { "houses": [{
   "street": "111 SW 5th ave",
   "cityState": "Portland, OR",
-  "type": "office tower",
+  "type": "Office Space",
   "image1": "http://thingsaboutportlandthatsuck.com/wp-content/uploads/2008/05/bigpink.jpg",
   "image2": "http://assets.regus.com/images/2277/businesscentre/3_454x340.jpg",
   "image3": "http://x.lnimg.com/photo/poster_1920/9691d2fac91a47cfa4a2a0f6969a5f52.jpg",
@@ -10,194 +10,213 @@
   "price": "50,000,000",
   "description": "The U.S. Bancorp Tower is a 42-story, 163.38 m skyscraper in Portland, Oregon. It is the second tallest building in\n the city after Wells Fargo Center, and with its nearly 69,000 m² office space, it's the largest in Oregon in terms of volume."
 },{
-  "street": "111 SW 5th ave",
+  "street": "7735 SE 22nd Ave",
   "cityState": "Portland, OR",
   "type": "Cozy Cottage",
-  "image1": "http://photos1.zillowstatic.com/p_f/IS1jjiefip5j3m0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image1": "http://photos3.zillowstatic.com/p_f/ISlio1r87dz6sf0000000000.jpg",
+  "image2": "http://photos1.zillowstatic.com/p_f/ISppgrwojz8iqn0000000000.jpg",
+  "image3": "http://photos1.zillowstatic.com/p_f/ISd8fl1nqzkj7h0000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/IS5eq7skho6p9h0000000000.jpg",
   "bedrooms": 3,
-  "price": "550,000"
+  "price": "550,000",
+  "description": "One of Concordias prettiest streets - with alley access. Best of Alberta and Concordia. Great open entertaining space in LR/DR. Large kitchen with eating area. Flexible bedroom space and TONS of potential in unfinished basement!! Perfect blend of vintage and modern! OPEN SATURDAY AND SUNDAY 1-3"
 },{
   "street": "8945 N Calvert Ave",
   "cityState": "Portland, OR",
   "type": "Town Home",
   "image1": "http://photos2.zillowstatic.com/p_f/IShj2636zrrjw91000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://www.welcometosandiego.com/wp-content/uploads/2012/03/3257th805MLS-101.jpg",
+  "image3": "http://www.welcometosandiego.com/wp-content/uploads/2013/03/325-7th-avenue-006_mls1.jpg",
+  "image4": "http://static.celebuzz.com/uploads/2014/03/12/SJP-NYC-home-1-298x402.png",
   "bedrooms": 3,
-  "price": "224,900"
+  "price": "224,900",
+  "description": "Vernon bungalow with darling curb appeal and great front porch! Oak floors throughout, butcher block counter tops in kitchen and stainless steel appliances New plumbing & electrical w/ updated service panel. Remodeled bathroom includes double vanity sinks and refinished encased clawfoot tub. Many energy efficient upgrades. Basement functioning as 3rd bedroom."
 },{
   "street": "1500 SW 11th ave, unit 1602",
   "cityState": "Portland, OR",
   "type": "Downtown Condo",
   "image1": "http://photos1.zillowstatic.com/p_f/ISxjldjvclptoq0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos3.zillowstatic.com/p_f/ISxvy7dt51nslf1000000000.jpg",
+  "image3": "http://photos2.zillowstatic.com/p_f/IStkrv4blm0ogg1000000000.jpg",
+  "image4": "http://photos3.zillowstatic.com/p_f/ISlepjm4hesqgg1000000000.jpg",
   "bedrooms": 2,
-  "price": "525,000"
+  "price": "525,000",
+  "description": "Vernon bungalow with darling curb appeal and great front porch! Oak floors throughout, butcher block counter tops in kitchen and stainless steel appliances New plumbing & electrical w/ updated service panel. Remodeled bathroom includes double vanity sinks and refinished encased clawfoot tub. Many energy efficient upgrades. Basement functioning as 3rd bedroom."
 },{
   "street": "2122 SE Belmont St, #2128",
   "cityState": "Portland, OR",
-  "type": "house",
+  "type": "House",
   "image1": "http://photos2.zillowstatic.com/p_h/ISd01h6u6gcant0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
-  "bedrooms": 8,
-  "price": "1,475,000"
+  "image2": "http://photos2.zillowstatic.com/p_f/IS5mglypd6a51u1000000000.jpg",
+  "image3": "http://photos2.zillowstatic.com/p_f/IS5qz24eu6dpou1000000000.jpg",
+  "image4": "http://photos3.zillowstatic.com/p_f/ISxfe9gj9y181u1000000000.jpg",
+  "bedrooms": 3,
+  "price": "1,475,000",
+  "description": "Sabin Charm with a BIG front porch - Totally remodeled (incl mechanicals) and so pretty! Lots of windows, high ceilings, beautiful refinished hardwood flooring, new kitchen, formal dining room w/ half light (fir) door access to rear porch. Mastersuite and both secondary bedrooms are upstairs. Basement has plenty of room for storage too!"
 },{
   "street": "1109 NE Skidmore St",
   "cityState": "Portland, OR",
-  "type": "Massiv Belmont Home",
+  "type": "Home",
   "image1": "http://photos3.zillowstatic.com/p_f/ISlul7777pr71m1000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/ISh3eowk7lxm820000000000.jpg",
+  "image3": "http://photos3.zillowstatic.com/p_f/ISxv230nhsmz6m1000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/IShjyez99c657m1000000000.jpg",
   "bedrooms": 3,
-  "price": "459,000"
+  "price": "459,000",
+  "description": "Two year old construction only half a block from Alberta park in coveted Concordia neighborhood. \n High-end finishes throughout! 3 bed/2 ba upper level, half-bath on main. Huge master suite with fireplace, separate tub & shower and double sinks! Office on main level and huge finished basement. Built-in vacuum and radon pump for superior indoor air quality. New honeycomb cellular bottom up/top down light filtering custom blinds. Beautiful park views to west!"
 },{
   "street": "711 NE Randall Ave",
   "cityState": "Portland, OR",
   "type": "Foreclosure is lit",
   "image1": "https://i.ytimg.com/vi/FJoT5aKmxis/hqdefault.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://www.lostdestinations.com/jackson/jackson2.jpg",
+  "image3": "http://njjewishnews.com/images/made/images/uploads/mwFamilySuffersHouseFire2_800_600_90.jpg",
+  "image4": "http://davidmixner.typepad.com/.a/6a00d8341c90b153ef01901e290015970b-pi",
   "bedrooms": 1,
-  "price": "180,006"
+  "price": "180,006",
+  "description": "Simply, foreclosure is the process by which a homeowner’s rights to a property are forfeited because of failure to pay the mortgage. \n If the owner cannot pay off the outstanding debt or sell it via short sale, the property then goes to a foreclosure auction. If the property does not sell at auction, it becomes the property of the lending institution."
 },{
   "street": "110 NE Cesar E Chavez Blvd",
   "cityState": "Portland, OR",
   "type": "Craftsmen",
   "image1": "http://photos1.zillowstatic.com/p_h/ISd0x1omvqkja21000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/ISptrepchy8gw80000000000.jpg",
+  "image3": "http://photos1.zillowstatic.com/p_f/IS9hnqoz8islw80000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/IS1ble6t4akow80000000000.jpg",
   "bedrooms": 4,
-  "price": "925,000"
+  "price": "925,000",
+  "description": "Beautiful REMODEL-COMPLETELY RE-BUILT in 2011-New & Refurbished Materials.Stunning 1000' addition added w/700' Master suite w/walk-thru closet & bath,5 bdrms/3.5 Bths, Formal Living & Dining.Family Rm open to Gourmet Kitchen (w/Granite & SS appliances). \n Tons of Storage,2 car Garage,Central Vac,Private Courtyard patio w/raised garden beds & built for energy efficiency.Fantastic neighborhood w/Dog Friendly Park 1.5 blocks away.A must see!"
 },{
   "street": "4933 SW Lodi Ln",
   "cityState": "Portland, OR",
   "type": "Classic",
   "image1": "http://photos2.zillowstatic.com/p_h/IS1v4ja13nm9tn1000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos1.zillowstatic.com/p_f/ISluxoc4yinsx71000000000.jpg",
+  "image3": "http://photos2.zillowstatic.com/p_f/ISdovcuxtafvx71000000000.jpg",
+  "image4": "http://photos3.zillowstatic.com/p_f/IS5it0crp27yx71000000000.jpg",
   "bedrooms": 4,
-  "price": "1,250,000"
+  "price": "1,250,000",
+  "description": "Brand new 4 bedroom, 3.5 bathroom townhouse style condo with 2833 square feet of living space. It features modern and high end finishes with 9 foot ceilings. This condo has amazing natural light and an open floor plan. Basement has separate entrance to a mother-in-law suite. Interior photos are from an almost identical townhouse next door."
 },{
   "street": "6144 N Willamette Blvd",
   "cityState": "Portland, OR",
   "type": "Charming",
   "image1": "http://photos3.zillowstatic.com/p_h/IS9x7laqvselhy0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/IStshls5aht09x0000000000.jpg",
+  "image3": "http://photos1.zillowstatic.com/p_f/IS1zjxacep1y8x0000000000.jpg",
+  "image4": "http://photos3.zillowstatic.com/p_f/ISlmf9az59l39x0000000000.jpg",
   "bedrooms": 2,
-  "price": "399,950"
+  "price": "399,950",
+  "description": "Investment Opportunity in Close in NE! 5000 square ft lot zoned R1. Potential for 5 units, maybe more with variances. 87 Walk Score. 79 Bike Score."
 },{
   "street": "8604 SE 19th Ave",
   "cityState": "Portland, OR",
   "type": "Small house",
   "image1": "http://photos2.zillowstatic.com/p_h/IS5ihr0be6zpg20000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos1.zillowstatic.com/p_f/IS9d419i4556t90000000000.jpg",
+  "image3": "http://photos3.zillowstatic.com/p_f/IShr4plh80mud90000000000.jpg",
+  "image4": "http://photos1.zillowstatic.com/p_f/IS9l2d3b4sdxd90000000000.jpg",
   "bedrooms": 3,
-  "price": "409,900"
+  "price": "409,900",
+  "description": "Charming home located on a private road!!! Features formal living/dining and family rooms. Gas fireplace, granite counter-tops, laminate floor throughout the first floor. Covered deck, beautifully landscaped with fruit trees and shed."
 },{
   "street": "9270 SW 4th Ave",
   "cityState": "Portland, OR",
   "type": "Designer home",
   "image1": "http://photos3.zillowstatic.com/p_h/IStsx18p5viejk1000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/IStwckz3xmu4go1000000000.jpg",
+  "image3": "http://photos2.zillowstatic.com/p_f/IS5e6kgkky5dgo1000000000.jpg",
+  "image4": "http://photos3.zillowstatic.com/p_f/ISx317s4dottho1000000000.jpg",
   "bedrooms": 3,
-  "price": "539,000"
+  "price": "539,000",
+  "description": "Open Saturday, 4/16 1-3pm. Old Portland charm & character are reflected throughout. The high quality restoration include the crown molding, doors, hardware, and picture windows. Add'l highlights include wood floors, ceiling fans, high ceilings, a partially finished basement including a bonus room, large laundry room, room for wine cellar? Private backyard perfect for entertaining & relaxing. Don't miss the view of Mount St. Helens."
 },{
   "street": "402 SE 108th Ave",
   "cityState": "Portland, OR",
   "type": "Single Story",
   "image1": "http://photos2.zillowstatic.com/p_h/ISp1m37dnnh1mn0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/IStstqk01lufwi0000000000.jpg",
+  "image3": "http://photos3.zillowstatic.com/p_f/ISlqiuz0879fci0000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/IS5anq1how5owi0000000000.jpg",
   "bedrooms": 4,
-  "price": "229,500"
+  "price": "229,500",
+  "description": "North Beverly 6 room Cape with an expansive 1.34 acres of land, lovely fenced, level yard, perfect for family fun. Updated kitchen with granite counters and newer appliances. Hardwood floors compliment the spacious first floor and newer entry with efficient windows and updates baths. \n This is a great home for easy living with the convenience of commuter routes, train, shopping and area beaches. Owner is ready to move...this property awaits the discerning buyer who can see all the value this property has to offer!"
 },{
   "street": "7325 SE Yamhill St",
   "cityState": "Portland, OR",
   "type": "Bungalow",
   "image1": "http://photos2.zillowstatic.com/p_h/ISpxa8caqg0ukt0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/IShfr61ro364ci0000000000.jpg",
+  "image3": "http://photos3.zillowstatic.com/p_f/IS99puikkvx6ci0000000000.jpg",
+  "image4": "http://photos1.zillowstatic.com/p_f/IS13ni0egnp9ci0000000000.jpg",
   "bedrooms": 3,
-  "price": "475,000"
+  "price": "475,000",
+  "description": "Monthly rental studio including large, Spacious bedroom, Private living room and separate Entrance (shared bathroom and shared kitchen) in a Beautiful 4+ bedroom home with original hardwoods, and crown molding & woodwork throughout, pocket doors between living and dining rooms, creating your separate living space, updated kitchen with granite countertops, awesome front porch and sun room and back porch with room to BBQ/hang out by fire pit out back."
 },{
   "street": "6127 SE Bush St",
   "cityState": "Portland, OR",
   "type": "Single-level",
   "image1": "http://photos1.zillowstatic.com/p_h/ISdks7ljpeq9431000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/IStslgr461lka01000000000.jpg",
+  "image3": "http://photos3.zillowstatic.com/p_f/ISlmj49y1tcna01000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/IS5afg8ltcwsa01000000000.jpg",
   "bedrooms": 3,
-  "price": "335,000"
+  "price": "335,000",
+  "description": "Amazing location!! Beautiful classic Portland home with excellent modern upgrades. High ceilings, dark wood floors, and unique reclaimed wood used throughout the home.\n One of a kind kitchen includes concrete counters, stainless steel appliances, built-in window bench and convenient den area. Master-suite with skylight. Front porch, back deck, and great landscaping. This Alberta home won't last long!"
 },{
   "street": "7626 SE Martins St.",
   "cityState": "Portland, OR",
   "type": "New-consruction",
   "image1": "http://photos1.zillowstatic.com/p_h/ISl6ngsaerknj01000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos3.zillowstatic.com/p_f/IS5um7uk6wagio0000000000.jpg",
+  "image3": "http://photos3.zillowstatic.com/p_f/ISh3a5zin3eglo0000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/IS1bx7h6pzvhy21000000000.jpg",
   "bedrooms": 4,
-  "price": "449,900"
+  "price": "449,900",
+  "description": "Just what you'd imagine when you think of living in a LOFT in the heart of the Pearl District. Formerly the Meir & Frank warehouse on the Historic Register, this unique building features exposed ductwork, high ceilings, & maple flooring throughout. \n Many large windows allow for lots of natural light. Combine the bright space with tall ceilings and you have a very open feel. Ideal location with views and easy access to all of the fun and shopping the Pearl has to offer. Full kitchen with stainless countertops and a built-in microwave. Beautiful west facing balcony & view of the atrium. \n Make life easy with HOA covering maintenance, garbage, sewer, water, a secured parking space, and even a gym. \n Walk Score: 98, walker?s paradise. Bike Score: 97, biker?s paradise Transit Score: 86, excellent transit"
 },{
   "street": "3706 SE Schiller St.",
   "cityState": "Portland, OR",
   "type": "Early Century",
   "image1": "http://photos3.zillowstatic.com/p_h/IS9tcq6xdupxnm0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos1.zillowstatic.com/p_f/ISlupej4kt53ic1000000000.jpg",
+  "image3": "http://photos1.zillowstatic.com/p_f/ISl2kncradcqgd1000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/ISdon21yflx5ic1000000000.jpg",
   "bedrooms": 3,
-  "price": "610,000"
+  "price": "610,000",
+  "description": "OPEN SUNDAY 4/10 1-3! LOCATION,LOCATION!Views of Mt St Helens, Mt Hood, Mt Tabor Park. Fabulous 1923 Craftsman with original crown molding, built-ins, refinished hardwoods, fresh paint inside and out. Quiet neighborhood! Remodeled kitchen, ss appliances, breakfast nook. New windows. Enjoy the covered front porch & back deck. Over-sized 2 car garage & shop. 1 block to Mt Tabor Park. Walk to Stark St, movie theater, restaurants & transit."
 },{
   "street": "2555 NW Savier St APT 13",
   "cityState": "Portland, OR",
   "type": "Townhouse style condo",
   "image1": "http://photos3.zillowstatic.com/p_h/ISxjhmr4v618e60000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos1.zillowstatic.com/p_f/IS9la3dug35iw20000000000.jpg",
+  "image3": "http://photos2.zillowstatic.com/p_f/IS1f8runcvwkw20000000000.jpg",
+  "image4": "http://photos3.zillowstatic.com/p_f/ISt86fch8nonw20000000000.jpg",
   "bedrooms": 2,
-  "price": "399,999"
+  "price": "399,999",
+  "description": "Spectacular new home by reputable builder in desirable Kenton Neighborhood. Short walk to huge Kenton Park, shops on Denver, and the community garden is at the end of the street. Open floor plan with high end finishes including hardwood floors, quartz countertops, custom cabinets, and beautiful tile work. Large master suite with spa like bathroom featuring huge shower with dual shower heads. Fenced landscaped yard with sprinkler system."
 },{
   "street": "2506 NE Dekum St",
   "cityState": "Portland, OR",
   "type": "Mid-Century",
   "image1": "http://photos1.zillowstatic.com/p_h/ISlexdjwau04zf1000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/IStsx1otzr7x2p1000000000.jpg",
+  "image3": "http://photos2.zillowstatic.com/p_f/IS5q71knl2hu3p1000000000.jpg",
+  "image4": "http://photos3.zillowstatic.com/p_f/ISl2cpk0uixo3p1000000000.jpg",
   "bedrooms": 3,
-  "price": "429,900"
+  "price": "429,900",
+  "description": "COMING SOON! Absolutely charming NE Portland Bungalow in the coveted Rose City Park Neighborhood. Remodeled kitchen boasts granite countertops and plenty of prep space! Dining area has period built-ins. Living room features built-in shelving with stained glass window accents located above. Spacious Bath has storage and original laundry chute to laundry area in basement! Upper floor is fully dedicated to Master Bedroom and features two closets. Media/Family room space is in finished basement. Very Large fenced grassy yard and a rare detached 2 car garage."
 },{
   "street": "1427 N Bryant St",
   "cityState": "Portland, OR",
   "type": "Old Portland",
   "image1": "http://photos1.zillowstatic.com/p_h/IS9hvwmc9gd5ae0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/IS5mo3me1ipx4s1000000000.jpg",
+  "image3": "http://photos1.zillowstatic.com/p_f/IS1naew8dbgp6s1000000000.jpg",
+  "image4": "http://photos1.zillowstatic.com/p_f/ISdsqf4l5qxu4s1000000000.jpg",
   "bedrooms": 3,
-  "price": "369,950"
+  "price": "369,950",
+  "description": "Spectacular family estate with spacious main residence and detached guest quarters, all on a rare, fully-landscaped private .26 acre lot in close-in SE Portland. Slab quartz and granite counters, custom walnut and gummy cherry cabinetry, Brazilian tigerwood floors and solid core fir doors. High-end appliances including Miele and BlueStar. Energy efficient systems. State-of-the art home automation. Call/email for complete features list."
   }]
 }

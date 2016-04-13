@@ -1,29 +1,35 @@
-<h2>Property Details</h2>
+<div class="container">
+  <h2>{{model.type}} at {{model.street}}</h2>
+  <h3>{{model.cityState}}</h3>
 
-<h3>{{model.type}}</h3>
 <h6>{{{textFormat model.description}}}</h6>
-<p>
-  ${{model.price}}
-</p>
-<p>
-  {{model.street}}
-</p>
 
-<p>
-  {{model.cityState}}
-</p>
-<p>
-  <img src={{model.image1}} alt="" />
-</p>
-<p>
-  <img src={{model.image2}} alt="" />
-</p>
-<p>
-  <img src={{model.image3}} alt="" />
-</p>
-<p>
-  <img src={{model.image4}} alt="" />
-</p>
-<p>
-  {{model.bedrooms}} Bedrooms
-</p>
+  <p>
+    <h5>For Sale: ${{model.price}}</h5>
+  </p>
+  <p>
+    Get pre-approved
+  </p>
+
+  <p>
+    Estimate Mortgage: Unknown
+  </p>
+
+  <p>
+    {{model.bedrooms}} Bedrooms
+  </p>
+  <div class="detail-img">
+    <p>
+      <img src={{model.image1}} alt="" />
+    </p>
+    <p>
+      <img src={{model.image2}} alt="" />
+    </p>
+    <p>
+      <img src={{model.image3}} alt="" />
+    </p>
+    <p>
+      <img src={{model.image4}} alt="" />
+    </p>
+  </div>
+</div>
