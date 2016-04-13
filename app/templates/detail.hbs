@@ -2,7 +2,13 @@
   <h2>{{model.type}} at {{model.street}}</h2>
   <h3>{{model.cityState}}</h3>
 
-<h6>{{{textFormat model.description}}}</h6>
+  <div class="small-map">
+    {{#g-map lat=model.lat lng=model.lng zoom=14 as |context|}}
+      {{g-map-marker context lat=model.lat lng=model.lng}}
+    {{/g-map}}
+  </div>
+
+  <h6>{{{textFormat model.description}}}</h6>
 
   <p>
     <h5>For Sale: ${{model.price}}</h5>
@@ -32,4 +38,5 @@
       <img src={{model.image4}} alt="" />
     </p>
   </div>
+
 </div>

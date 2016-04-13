@@ -86,3 +86,8 @@ img {
 .logo {
   margin: 20px;
 }
+
+.small-map .g-map-canvas{
+  height: 300px;
+  width: 300px;
+}
