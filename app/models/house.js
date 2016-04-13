@@ -9,5 +9,6 @@ export default DS.Model.extend({
   image3: DS.attr(),
   image4: DS.attr(),
   bedrooms: DS.attr(),
-  price: DS.attr()
+  price: DS.attr(),
+  description: DS.attr()
 });
