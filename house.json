@@ -68,5 +68,26 @@
   "image": "http://photos3.zillowstatic.com/p_h/IS9x7laqvselhy0000000000.jpg",
   "bedrooms": 2,
   "price": "399,950"
+},{
+  "street": "8604 SE 19th Ave",
+  "cityState": "Portland, OR",
+  "type": "Small house",
+  "image": "http://photos2.zillowstatic.com/p_h/IS5ihr0be6zpg20000000000.jpg",
+  "bedrooms": 3,
+  "price": "409,900"
+},{
+  "street": "9270 SW 4th Ave",
+  "cityState": "Portland, OR",
+  "type": "Designer home",
+  "image": "http://photos3.zillowstatic.com/p_h/IStsx18p5viejk1000000000.jpg",
+  "bedrooms": 3,
+  "price": "539,000"
+},{
+  "street": "402 SE 180th Ave",
+  "cityState": "Portland, OR",
+  "type": "Single Story",
+  "image": "http://photos2.zillowstatic.com/p_h/ISp1m37dnnh1mn0000000000.jpg",
+  "bedrooms": 4,
+  "price": "229,500"
   }]
 }
