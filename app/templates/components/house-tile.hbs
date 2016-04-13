@@ -1,16 +1,15 @@
+<div class="house">
+  <div class="house-description">
+    <h3>{{house.type}}</h3>
+    <p>${{house.price}}</p>
+    <p>{{house.street}}</p>
+    <p>{{house.cityState}}</p>
+  </div>
+  {{#link-to 'detail' house.id}}<p>
+    <img src={{house.image1}} alt="" />
+  </p>{{/link-to}}
 
-<h3>{{house.type}}</h3>
-<p>
-  ${{house.price}}
-</p>
-<p>
-  {{house.street}}
-</p>
-
-<p>
-  {{house.cityState}}
-</p>
-{{#link-to 'detail' house.id}}<p>
-  <img src={{house.image1}} alt="" />
-</p>{{/link-to}}
-<p class="small">click image for property details</p>
+  <div class="image-click">
+    <p class="small">click image for property details</p>
+  </div>
+</div>
