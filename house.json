@@ -8,21 +8,21 @@
 },{
   "street": "111 SW 5th ave",
   "cityState": "Portland, OR",
-  "type": "cottage",
+  "type": "Cozy Cottage",
   "image": "http://photos1.zillowstatic.com/p_f/IS1jjiefip5j3m0000000000.jpg",
   "bedrooms": 3,
   "price": "550,000"
 },{
   "street": "8945 N Calvert Ave",
   "cityState": "Portland, OR",
-  "type": "town house",
+  "type": "Town Home",
   "image": "http://photos2.zillowstatic.com/p_f/IShj2636zrrjw91000000000.jpg",
   "bedrooms": 3,
   "price": "224,900"
 },{
   "street": "1500 SW 11th ave, unit 1602",
   "cityState": "Portland, OR",
-  "type": "condo",
+  "type": "Downtown Condo",
   "image": "http://photos1.zillowstatic.com/p_f/ISxjldjvclptoq0000000000.jpg",
   "bedrooms": 2,
   "price": "525,000"
@@ -36,14 +36,14 @@
 },{
   "street": "1109 NE Skidmore St",
   "cityState": "Portland, OR",
-  "type": "house",
+  "type": "Massiv Belmont Home",
   "image": "http://photos3.zillowstatic.com/p_f/ISlul7777pr71m1000000000.jpg",
   "bedrooms": 3,
   "price": "459,000"
 },{
   "street": "711 NE Randall Ave",
   "cityState": "Portland, OR",
-  "type": "Foreclosure",
+  "type": "Foreclosure is lit",
   "image": "https://i.ytimg.com/vi/FJoT5aKmxis/hqdefault.jpg",
   "bedrooms": 1,
   "price": "180,006"

@@ -1,3 +1,26 @@
+ html, body {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   vertical-align: baseline;
+ }
+
+ ul li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+.toggleNav {
+  display: none;
+}
+
 .ember-cli-g-map {
     height: 1000px;
     width: 1200px;
@@ -10,4 +33,49 @@
 img {
   max-width: 300px;
   max-height: 300px;
+}
+
+.flex-nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.main-header {
+  background-image: url("http://www.10stunninghomes.com/wp-content/uploads/Shepherd-Residence-Modern-Three-Storey-Kansas-City-Home-Perfect-For-Starting-A-Family.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 10% 30%;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin: 0;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#ember464 {
+  background-color: #ff9933;
+  border-radius: 5px;
+  width: 150px;
+  height: 40px;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 60px;
+}
+
+#ember454 {
+  width: 100%;
+
+}
+
+.properties {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.listing-head {
+  text-align: center;
 }

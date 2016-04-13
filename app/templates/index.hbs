@@ -1,1 +1,14 @@
-<!-- {{log model}} -->
+<div class="main-header">
+  <h2>Explore Portland Properties</h2>
+  {{#link-to 'routable-component'}}MAP{{/link-to}}
+</div>
+
+<div class="listing-head">
+  <h1>New Listings</h1>
+</div>
+
+<div class="properties">
+  {{#each model as |house|}}
+    {{house-tile house=house}}
+  {{/each}}
+</div>

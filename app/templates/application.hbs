@@ -1,6 +1,8 @@
-<div class="container">
-  <h2 id="title">ZILLOW-CLONE</h2>
+<nav class="flex-nav">
+  <ul>
+    {{#link-to 'index'}}<span class="glyphicon glyphicon-tree-conifer"></span> ZILLOW-CLONE{{/link-to}}
+  </ul>
+</nav>
 
-  {{#link-to 'routable-component'}}MAP{{/link-to}}
-  {{outlet}}
-</div>
+
+{{outlet}}
