@@ -47,5 +47,12 @@
   "image": "https://i.ytimg.com/vi/FJoT5aKmxis/hqdefault.jpg",
   "bedrooms": 1,
   "price": "180,006"
+},{
+  "street": "110 NE Cesar E Chavez Blvd",
+  "cityState": "Portland, OR",
+  "type": "Craftsmen",
+  "image": "http://photos1.zillowstatic.com/p_h/ISd0x1omvqkja21000000000.jpg",
+  "bedrooms": 4,
+  "price": "925,000"
   }]
 }
