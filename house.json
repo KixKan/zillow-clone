@@ -258,5 +258,12 @@
   "description": "Spectacular family estate with spacious main residence and detached guest quarters, all on a rare, fully-landscaped private .26 acre lot in close-in SE Portland. Slab quartz and granite counters, custom walnut and gummy cherry cabinetry, Brazilian tigerwood floors and solid core fir doors. High-end appliances including Miele and BlueStar. Energy efficient systems. State-of-the art home automation. Call/email for complete features list.",
   "lat": 45.574068,
   "lng": -122.681590
+  }],
+  "agents": [{
+    "name": "Michael Smith",
+    "phone": "503-686-3025",
+    "email": "michaelanthonysmith00@gmail.com",
+    "image": "https://uproxx.files.wordpress.com/2012/12/realestate8.jpg?quality=90&w=650",
+    "house": 0
   }]
 }

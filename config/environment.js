@@ -5,7 +5,7 @@ module.exports = function(environment) {
     modulePrefix: 'zillow-clone',
     environment: environment,
     contentSecurityPolicy: { 'connect-src': "'self' https://auth.firebase.com wss://*.firebaseio.com" },
-    firebase: 'https://zillow-clone.firebaseio.com/',
+    firebase: 'https://zillowclone-test.firebaseio.com/',
     baseURL: '/',
     locationType: 'auto',
     EmberENV: {

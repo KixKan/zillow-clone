@@ -1,0 +1,14 @@
+<div class="container">
+  <h2>{{model.name}}</h2>
+  <img src={{model.image}} alt="" />
+  <p>
+    Contact info: {{model.phone}}, {{model.email}}
+  </p>
+  {{model.houses}}
+  {{#each model.houses as |house|}}
+    <h3>xx{{house.type}}</h3>
+    <img src={{house.image1}} alt="" />
+    <img src={{house.image2}} alt="" />
+  {{/each}}
+
+</div>
