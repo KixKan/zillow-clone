@@ -10,5 +10,7 @@ export default DS.Model.extend({
   image4: DS.attr(),
   bedrooms: DS.attr(),
   price: DS.attr(),
-  description: DS.attr()
+  description: DS.attr(),
+  lat: DS.attr(),
+  lng: DS.attr()
 });

@@ -1,1 +1,12 @@
-{{yield}}
+{{#g-map markersFitMode='live' as |context|}}
+  {{#each model as |house|}}
+    {{#g-map-marker context lat=house.lat lng=house.lng   title=house.price icon="http://g.gazetaprawna.pl/gp/sgp/img/icon.home.black.png" as |markerContext|}}
+    {{#g-map-infowindow markerContext openOn="click" closeOn="click"}}
+    <h3>{{house.type}}</h3>
+    <h4>Bedrooms: {{house.bedrooms}}</h4>
+    <h4>${{house.price}}</h4>
+    <button {{action 'go' house.id}}>More Info</button>
+    {{/g-map-infowindow}}
+    {{/g-map-marker}}
+  {{/each}}
+{{/g-map}}
