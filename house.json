@@ -10,7 +10,8 @@
   "price": "50,000,000",
   "description": "The U.S. Bancorp Tower is a 42-story, 163.38 m skyscraper in Portland, Oregon. It is the second tallest building in\n the city after Wells Fargo Center, and with its nearly 69,000 m² office space, it's the largest in Oregon in terms of volume.",
   "lat": 45.5231,
-  "lng": -122.6765
+  "lng": -122.6765,
+  "agent": 0
 },{
   "street": "7735 SE 22nd Ave",
   "cityState": "Portland, OR",

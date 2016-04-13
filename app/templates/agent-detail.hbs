@@ -4,9 +4,10 @@
   <p>
     Contact info: {{model.phone}}, {{model.email}}
   </p>
-  {{model.houses}}
+  {{log model.houses}}
+  {{log model.name}}
   {{#each model.houses as |house|}}
-    <h3>xx{{house.type}}</h3>
+    <h3>{{house.type}}</h3>
     <img src={{house.image1}} alt="" />
     <img src={{house.image2}} alt="" />
   {{/each}}
