@@ -24,7 +24,7 @@ a {
 
 .g-map-canvas {
     height: 1000px;
-    width: 1200px;
+    width: max;
 }
 
 .glyphicon {
