@@ -9,13 +9,13 @@
   "bedrooms": 300,
   "price": "50,000,000"
 },{
-  "street": "111 SW 5th ave",
+  "street": "7735 SE 22nd Ave",
   "cityState": "Portland, OR",
   "type": "Cozy Cottage",
-  "image1": "http://photos1.zillowstatic.com/p_f/IS1jjiefip5j3m0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image1": "http://photos3.zillowstatic.com/p_f/ISlio1r87dz6sf0000000000.jpg",
+  "image2": "http://photos1.zillowstatic.com/p_f/ISppgrwojz8iqn0000000000.jpg",
+  "image3": "http://photos1.zillowstatic.com/p_f/ISd8fl1nqzkj7h0000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/IS5eq7skho6p9h0000000000.jpg",
   "bedrooms": 3,
   "price": "550,000"
 },{
@@ -23,9 +23,9 @@
   "cityState": "Portland, OR",
   "type": "Town Home",
   "image1": "http://photos2.zillowstatic.com/p_f/IShj2636zrrjw91000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://www.welcometosandiego.com/wp-content/uploads/2012/03/3257th805MLS-101.jpg",
+  "image3": "http://www.welcometosandiego.com/wp-content/uploads/2013/03/325-7th-avenue-006_mls1.jpg",
+  "image4": "http://static.celebuzz.com/uploads/2014/03/12/SJP-NYC-home-1-298x402.png",
   "bedrooms": 3,
   "price": "224,900"
 },{
@@ -33,29 +33,29 @@
   "cityState": "Portland, OR",
   "type": "Downtown Condo",
   "image1": "http://photos1.zillowstatic.com/p_f/ISxjldjvclptoq0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos3.zillowstatic.com/p_f/ISxvy7dt51nslf1000000000.jpg",
+  "image3": "http://photos2.zillowstatic.com/p_f/IStkrv4blm0ogg1000000000.jpg",
+  "image4": "http://photos3.zillowstatic.com/p_f/ISlepjm4hesqgg1000000000.jpg",
   "bedrooms": 2,
   "price": "525,000"
 },{
   "street": "2122 SE Belmont St, #2128",
   "cityState": "Portland, OR",
-  "type": "house",
+  "type": "House",
   "image1": "http://photos2.zillowstatic.com/p_h/ISd01h6u6gcant0000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/IS5mglypd6a51u1000000000.jpg",
+  "image3": "http://photos2.zillowstatic.com/p_f/IS5qz24eu6dpou1000000000.jpg",
+  "image4": "http://photos3.zillowstatic.com/p_f/ISxfe9gj9y181u1000000000.jpg",
   "bedrooms": 8,
   "price": "1,475,000"
 },{
   "street": "1109 NE Skidmore St",
   "cityState": "Portland, OR",
-  "type": "Massiv Belmont Home",
+  "type": "Home",
   "image1": "http://photos3.zillowstatic.com/p_f/ISlul7777pr71m1000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/ISh3eowk7lxm820000000000.jpg",
+  "image3": "http://photos3.zillowstatic.com/p_f/ISxv230nhsmz6m1000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/IShjyez99c657m1000000000.jpg",
   "bedrooms": 3,
   "price": "459,000"
 },{
@@ -63,9 +63,9 @@
   "cityState": "Portland, OR",
   "type": "Foreclosure is lit",
   "image1": "https://i.ytimg.com/vi/FJoT5aKmxis/hqdefault.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://www.lostdestinations.com/jackson/jackson2.jpg",
+  "image3": "http://njjewishnews.com/images/made/images/uploads/mwFamilySuffersHouseFire2_800_600_90.jpg",
+  "image4": "http://davidmixner.typepad.com/.a/6a00d8341c90b153ef01901e290015970b-pi",
   "bedrooms": 1,
   "price": "180,006"
 },{
@@ -73,9 +73,9 @@
   "cityState": "Portland, OR",
   "type": "Craftsmen",
   "image1": "http://photos1.zillowstatic.com/p_h/ISd0x1omvqkja21000000000.jpg",
-  "image2": "",
-  "image3": "",
-  "image4": "",
+  "image2": "http://photos2.zillowstatic.com/p_f/ISptrepchy8gw80000000000.jpg",
+  "image3": "http://photos1.zillowstatic.com/p_f/IS9hnqoz8islw80000000000.jpg",
+  "image4": "http://photos2.zillowstatic.com/p_f/IS1ble6t4akow80000000000.jpg",
   "bedrooms": 4,
   "price": "925,000"
 },{
