@@ -10,9 +10,7 @@
 <p>
   {{house.cityState}}
 </p>
-<p>
+{{#link-to 'detail' house.id}}<p>
   <img src={{house.image}} alt="" />
-</p>
-<p>
-  {{house.bedrooms}} Bedrooms
-</p>
+</p>{{/link-to}}
+<p class="small">click image for property details</p>
