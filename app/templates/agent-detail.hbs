@@ -1,15 +1,3 @@
-<div class="container">
-  <h2>{{model.name}}</h2>
-  <img src={{model.image}} alt="" />
-  <p>
-    Contact info: {{model.phone}}, {{model.email}}
-  </p>
-  {{log model.houses}}
-  {{log model.name}}
-  {{#each model.houses as |house|}}
-    <h3>{{house.type}}</h3>
-    <img src={{house.image1}} alt="" />
-    <img src={{house.image2}} alt="" />
-  {{/each}}
+<h2>{{model.name}}</h2>
 
-</div>
+{{agent-tile agent=model house=model}}

@@ -13,5 +13,5 @@ export default DS.Model.extend({
   description: DS.attr(),
   lat: DS.attr(),
   lng: DS.attr(),
-  agent: DS.belongsTo('agent', { async: true}),
+  agent: DS.belongsTo('agent', { async: true }),
 });
