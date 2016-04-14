@@ -49,7 +49,8 @@
   "price": "224,900",
   "description": "Vernon bungalow with darling curb appeal and great front porch! Oak floors throughout, butcher block counter tops in kitchen and stainless steel appliances New plumbing & electrical w/ updated service panel. Remodeled bathroom includes double vanity sinks and refinished encased clawfoot tub. Many energy efficient upgrades. Basement functioning as 3rd bedroom.",
   "lat": 45.526020,
-  "lng": -122.690931
+  "lng": -122.690931,
+  "agent": 1
 },{
   "street": "1500 SW 11th ave, unit 1602",
   "cityState": "Portland, OR",
@@ -62,7 +63,8 @@
   "price": "525,000",
   "description": "Vernon bungalow with darling curb appeal and great front porch! Oak floors throughout, butcher block counter tops in kitchen and stainless steel appliances New plumbing & electrical w/ updated service panel. Remodeled bathroom includes double vanity sinks and refinished encased clawfoot tub. Many energy efficient upgrades. Basement functioning as 3rd bedroom.",
   "lat": 45.514703,
-  "lng": -122.685771
+  "lng": -122.685771,
+  "agent": 1
 },{
   "street": "2122 SE Belmont St, #2128",
   "cityState": "Portland, OR",
@@ -75,7 +77,8 @@
   "price": "1,475,000",
   "description": "Sabin Charm with a BIG front porch - Totally remodeled (incl mechanicals) and so pretty! Lots of windows, high ceilings, beautiful refinished hardwood flooring, new kitchen, formal dining room w/ half light (fir) door access to rear porch. Mastersuite and both secondary bedrooms are upstairs. Basement has plenty of room for storage too!",
   "lat": 45.516446,
-  "lng": -122.643863
+  "lng": -122.643863,
+  "agent": 1
 },{
   "street": "1109 NE Skidmore St",
   "cityState": "Portland, OR",
@@ -88,7 +91,8 @@
   "price": "459,000",
   "description": "Two year old construction only half a block from Alberta park in coveted Concordia neighborhood. \n High-end finishes throughout! 3 bed/2 ba upper level, half-bath on main. Huge master suite with fireplace, separate tub & shower and double sinks! Office on main level and huge finished basement. Built-in vacuum and radon pump for superior indoor air quality. New honeycomb cellular bottom up/top down light filtering custom blinds. Beautiful park views to west!",
   "lat": 45.554692,
-  "lng": -122.654403
+  "lng": -122.654403,
+  "agent": 1
 },{
   "street": "711 NE Randall Ave",
   "cityState": "Portland, OR",
@@ -101,7 +105,8 @@
   "price": "180,006",
   "description": "Simply, foreclosure is the process by which a homeowner’s rights to a property are forfeited because of failure to pay the mortgage. \n If the owner cannot pay off the outstanding debt or sell it via short sale, the property then goes to a foreclosure auction. If the property does not sell at auction, it becomes the property of the lending institution.",
   "lat": 45.528392,
-  "lng": -122.638391
+  "lng": -122.638391,
+  "agent": 1
 },{
   "street": "110 NE Cesar E Chavez Blvd",
   "cityState": "Portland, OR",
@@ -114,7 +119,8 @@
   "price": "925,000",
   "description": "Beautiful REMODEL-COMPLETELY RE-BUILT in 2011-New & Refurbished Materials.Stunning 1000' addition added w/700' Master suite w/walk-thru closet & bath,5 bdrms/3.5 Bths, Formal Living & Dining.Family Rm open to Gourmet Kitchen (w/Granite & SS appliances). \n Tons of Storage,2 car Garage,Central Vac,Private Courtyard patio w/raised garden beds & built for energy efficiency.Fantastic neighborhood w/Dog Friendly Park 1.5 blocks away.A must see!",
   "lat": 45.524476,
-  "lng": -122.622631
+  "lng": -122.622631,
+  "agent": 0
 },{
   "street": "4933 SW Lodi Ln",
   "cityState": "Portland, OR",
@@ -127,7 +133,8 @@
   "price": "1,250,000",
   "description": "Brand new 4 bedroom, 3.5 bathroom townhouse style condo with 2833 square feet of living space. It features modern and high end finishes with 9 foot ceilings. This condo has amazing natural light and an open floor plan. Basement has separate entrance to a mother-in-law suite. Interior photos are from an almost identical townhouse next door.",
   "lat": 45.493015,
-  "lng": -122.728028
+  "lng": -122.728028,
+  "agent": 0
 },{
   "street": "6144 N Willamette Blvd",
   "cityState": "Portland, OR",
@@ -140,7 +147,8 @@
   "price": "399,950",
   "description": "Investment Opportunity in Close in NE! 5000 square ft lot zoned R1. Potential for 5 units, maybe more with variances. 87 Walk Score. 79 Bike Score.",
   "lat": 45.578912,
-  "lng": -122.735272
+  "lng": -122.735272,
+  "agent": 0
 },{
   "street": "8604 SE 19th Ave",
   "cityState": "Portland, OR",
@@ -153,7 +161,8 @@
   "price": "409,900",
   "description": "Charming home located on a private road!!! Features formal living/dining and family rooms. Gas fireplace, granite counter-tops, laminate floor throughout the first floor. Covered deck, beautifully landscaped with fruit trees and shed.",
   "lat": 45.460622,
-  "lng": -122.644770
+  "lng": -122.644770,
+  "agent": 0
 },{
   "street": "9270 SW 4th Ave",
   "cityState": "Portland, OR",
@@ -166,7 +175,8 @@
   "price": "539,000",
   "description": "Open Saturday, 4/16 1-3pm. Old Portland charm & character are reflected throughout. The high quality restoration include the crown molding, doors, hardware, and picture windows. Add'l highlights include wood floors, ceiling fans, high ceilings, a partially finished basement including a bonus room, large laundry room, room for wine cellar? Private backyard perfect for entertaining & relaxing. Don't miss the view of Mount St. Helens.",
   "lat": 45.458003,
-  "lng": -122.682489
+  "lng": -122.682489,
+  "agent": 0
 },{
   "street": "402 SE 108th Ave",
   "cityState": "Portland, OR",
@@ -179,7 +189,8 @@
   "price": "229,500",
   "description": "North Beverly 6 room Cape with an expansive 1.34 acres of land, lovely fenced, level yard, perfect for family fun. Updated kitchen with granite counters and newer appliances. Hardwood floors compliment the spacious first floor and newer entry with efficient windows and updates baths. \n This is a great home for easy living with the convenience of commuter routes, train, shopping and area beaches. Owner is ready to move...this property awaits the discerning buyer who can see all the value this property has to offer!",
   "lat": 45.519682,
-  "lng": -122.552242
+  "lng": -122.552242,
+  "agent": 0
 },{
   "street": "7325 SE Yamhill St",
   "cityState": "Portland, OR",
@@ -192,7 +203,8 @@
   "price": "475,000",
   "description": "Monthly rental studio including large, Spacious bedroom, Private living room and separate Entrance (shared bathroom and shared kitchen) in a Beautiful 4+ bedroom home with original hardwoods, and crown molding & woodwork throughout, pocket doors between living and dining rooms, creating your separate living space, updated kitchen with granite countertops, awesome front porch and sun room and back porch with room to BBQ/hang out by fire pit out back.",
   "lat": 45.516527,
-  "lng": -122.586926
+  "lng": -122.586926,
+  "agent": 0
 },{
   "street": "6127 SE Bush St",
   "cityState": "Portland, OR",
@@ -205,7 +217,8 @@
   "price": "335,000",
   "description": "Amazing location!! Beautiful classic Portland home with excellent modern upgrades. High ceilings, dark wood floors, and unique reclaimed wood used throughout the home.\n One of a kind kitchen includes concrete counters, stainless steel appliances, built-in window bench and convenient den area. Master-suite with skylight. Front porch, back deck, and great landscaping. This Alberta home won't last long!",
   "lat": 45.516527,
-  "lng": -122.586926
+  "lng": -122.586926,
+  "agent": 0
 },{
   "street": "7626 SE Martins St.",
   "cityState": "Portland, OR",
@@ -218,7 +231,8 @@
   "price": "449,900",
   "description": "Just what you'd imagine when you think of living in a LOFT in the heart of the Pearl District. Formerly the Meir & Frank warehouse on the Historic Register, this unique building features exposed ductwork, high ceilings, & maple flooring throughout. \n Many large windows allow for lots of natural light. Combine the bright space with tall ceilings and you have a very open feel. Ideal location with views and easy access to all of the fun and shopping the Pearl has to offer. Full kitchen with stainless countertops and a built-in microwave. Beautiful west facing balcony & view of the atrium. \n Make life easy with HOA covering maintenance, garbage, sewer, water, a secured parking space, and even a gym. \n Walk Score: 98, walker?s paradise. Bike Score: 97, biker?s paradise Transit Score: 86, excellent transit",
   "lat": 45.478919,
-  "lng": -122.584687
+  "lng": -122.584687,
+  "agent": 0
 },{
   "street": "3706 SE Schiller St.",
   "cityState": "Portland, OR",
@@ -231,7 +245,8 @@
   "price": "610,000",
   "description": "OPEN SUNDAY 4/10 1-3! LOCATION,LOCATION!Views of Mt St Helens, Mt Hood, Mt Tabor Park. Fabulous 1923 Craftsman with original crown molding, built-ins, refinished hardwoods, fresh paint inside and out. Quiet neighborhood! Remodeled kitchen, ss appliances, breakfast nook. New windows. Enjoy the covered front porch & back deck. Over-sized 2 car garage & shop. 1 block to Mt Tabor Park. Walk to Stark St, movie theater, restaurants & transit.",
   "lat": 45.487914,
-  "lng": -122.624457
+  "lng": -122.624457,
+  "agent": 0
 },{
   "street": "2555 NW Savier St APT 13",
   "cityState": "Portland, OR",
@@ -244,7 +259,8 @@
   "price": "399,999",
   "description": "Spectacular new home by reputable builder in desirable Kenton Neighborhood. Short walk to huge Kenton Park, shops on Denver, and the community garden is at the end of the street. Open floor plan with high end finishes including hardwood floors, quartz countertops, custom cabinets, and beautiful tile work. Large master suite with spa like bathroom featuring huge shower with dual shower heads. Fenced landscaped yard with sprinkler system.",
   "lat": 45.534961,
-  "lng": -122.704433
+  "lng": -122.704433,
+  "agent": 0
 },{
   "street": "2506 NE Dekum St",
   "cityState": "Portland, OR",
@@ -257,7 +273,8 @@
   "price": "429,900",
   "description": "COMING SOON! Absolutely charming NE Portland Bungalow in the coveted Rose City Park Neighborhood. Remodeled kitchen boasts granite countertops and plenty of prep space! Dining area has period built-ins. Living room features built-in shelving with stained glass window accents located above. Spacious Bath has storage and original laundry chute to laundry area in basement! Upper floor is fully dedicated to Master Bedroom and features two closets. Media/Family room space is in finished basement. Very Large fenced grassy yard and a rare detached 2 car garage.",
   "lat": 45.571666,
-  "lng": -122.640038
+  "lng": -122.640038,
+  "agent": 1
 },{
   "street": "1427 N Bryant St",
   "cityState": "Portland, OR",
@@ -270,6 +287,7 @@
   "price": "369,950",
   "description": "Spectacular family estate with spacious main residence and detached guest quarters, all on a rare, fully-landscaped private .26 acre lot in close-in SE Portland. Slab quartz and granite counters, custom walnut and gummy cherry cabinetry, Brazilian tigerwood floors and solid core fir doors. High-end appliances including Miele and BlueStar. Energy efficient systems. State-of-the art home automation. Call/email for complete features list.",
   "lat": 45.574068,
-  "lng": -122.681590
+  "lng": -122.681590,
+  "agent": 1
   }]
 }
