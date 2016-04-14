@@ -41,6 +41,7 @@ img {
   display: flex;
   flex-direction: row;
   border-bottom: 2px solid black;
+  background-color: #ECECEC;
 }
 .flex-nav a {
   color:blue;
@@ -99,6 +100,9 @@ img {
   padding-top: 1px;
   border-bottom: 7px solid rgb(220, 220, 220);
   margin-bottom: 10px;
+}
+.listing-head h1 {
+
 }
 
 .detail-img {
