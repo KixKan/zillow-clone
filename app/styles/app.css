@@ -4,7 +4,6 @@
    padding: 0;
    border: 0;
    vertical-align: baseline;
-   background-color: #D2D7D3;
 
  }
 
@@ -96,7 +95,7 @@ img {
 
 .listing-head {
   text-align: center;
-  background-color: #FDE3A7;
+  background-color: #ECECEC;
   padding-top: 1px;
   b
 }
@@ -128,18 +127,18 @@ img {
 }
 
 .detail-background {
-  background-color: #FDE3A7;
+  background-color: #ECECEC;
 }
  .house {
-   background-color: #FDE3A7;
+   background-color: #ECECEC;
    width: 350px;
    height: 500px;
    margin-bottom: 10px;
  }
- .properties {
-   background-color: #D2D7D3;
+ /*.properties {
+   background-color: #F39C12;
  }
  hr {
-   background-color: #D2D7D3;
+   background-color: #F39C12;
 
- }
+ }*/
