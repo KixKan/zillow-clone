@@ -4,7 +4,7 @@
    padding: 0;
    border: 0;
    vertical-align: baseline;
-
+   font-family: sans-serif;
  }
 
  ul li {
@@ -97,7 +97,8 @@ img {
   text-align: center;
   background-color: #ECECEC;
   padding-top: 1px;
-  b
+  border-bottom: 7px solid rgb(220, 220, 220);
+  margin-bottom: 10px;
 }
 
 .detail-img {
@@ -134,6 +135,7 @@ img {
    width: 350px;
    height: 500px;
    margin-bottom: 10px;
+   border: 7px solid rgb(220, 220, 220);
  }
  /*.properties {
    background-color: #F39C12;
