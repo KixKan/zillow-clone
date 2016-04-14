@@ -6,3 +6,8 @@
 <p>
   {{agent.email}}, {{agent.phone}}
 </p>
+
+{{#each agent.houses as |house|}}
+  <h4>{{house.type}}</h4>
+  {{#link-to 'detail' house.id}}<img src={{house.image1}} alt="" /> {{/link-to}}
+{{/each}}
