@@ -1,13 +1,3 @@
-<div class="container">
-  <h2>{{agent.name}}</h2>
-  <img src={{agent.image}} alt="" />
-  <p>
-    Contact info: {{agent.phone}}, {{agent.email}}
-  </p>
 
-  {{#each agent.houses as |house|}}
-    <h3>{{house.type}}</h3>
-    <img src={{house.image1}} alt="" />
-  {{/each}}
-
-</div>
+{{#link-to 'agent-detail' agent.id}}<h5>{{agent.name}}</h5>{{/link-to}}
+<img src={{agent.image}} alt="" />

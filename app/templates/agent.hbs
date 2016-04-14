@@ -1,6 +1,7 @@
 <h1>Listing Agents</h1>
 
-{{#each model as |agent|}}
-  {{#link-to 'agent-detail' agent.id}}<h4>{{agent.name}}</h4>{{/link-to}}
-  <img src={{agent.image}} alt="" />
-{{/each}}
+<div class="container">
+  {{#each model.agents as |agent|}}
+    {{agent-tile agent=agent}}
+  {{/each}}
+</div>
