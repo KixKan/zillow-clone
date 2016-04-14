@@ -4,6 +4,8 @@
    padding: 0;
    border: 0;
    vertical-align: baseline;
+   background-color: #D2D7D3;
+
  }
 
  ul li {
@@ -39,6 +41,7 @@ img {
 .flex-nav {
   display: flex;
   flex-direction: row;
+  border-bottom: 2px solid black;
 }
 .flex-nav a {
   color:blue;
@@ -74,6 +77,16 @@ img {
 .map-button a {
   color: white;
 }
+.map-button:hover {
+  text-decoration: none;
+  background-color: white;
+  color: #ff9933;
+
+}
+.map-button:hover a {
+  color: #ff9933;
+  text-decoration: none;
+}
 
 .properties {
   display: flex;
@@ -83,6 +96,9 @@ img {
 
 .listing-head {
   text-align: center;
+  background-color: #FDE3A7;
+  padding-top: 1px;
+  b
 }
 
 .detail-img {
@@ -112,5 +128,18 @@ img {
 }
 
 .detail-background {
-  background-color: #D2D7D3;
+  background-color: #FDE3A7;
 }
+ .house {
+   background-color: #FDE3A7;
+   width: 350px;
+   height: 500px;
+   margin-bottom: 10px;
+ }
+ .properties {
+   background-color: #D2D7D3;
+ }
+ hr {
+   background-color: #D2D7D3;
+
+ }
