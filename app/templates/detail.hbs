@@ -1,5 +1,4 @@
-<div class="container">
-  {{log model.houses.type}}
+<div class="container detail-background">
   <h2>{{model.type}} at {{model.street}}</h2>
   <h3>{{model.cityState}}</h3>
 
@@ -9,7 +8,7 @@
     {{/g-map}}
   </div>
 
-  <h6>{{{textFormat model.description}}}</h6>
+  <h5>{{{textFormat model.description}}}</h5>
 
   <p>
     <h5>For Sale: ${{model.price}}</h5>
@@ -40,5 +39,4 @@
     </p>
   </div>
 
- <h3>Listed by: {{model.agent}}</h3>
 </div>
