@@ -10,6 +10,8 @@ Router.map(function() {
   this.route('detail', {path: '/detail/:house_id'});
   this.route('agent');
   this.route('agent-detail', {path: '/agent-detail/:agent_id'});
+  this.route('cheap-house');
+  this.route('expensive-house');
 });
 
 export default Router;
