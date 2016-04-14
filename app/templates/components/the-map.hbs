@@ -1,3 +1,5 @@
+  <span class="mapFilter">{{#link-to 'cheap-house'}}BELOW $500k{{/link-to}} - 
+  {{#link-to 'expensive-house'}}ABOVE $500k{{/link-to}}</span>
 {{#g-map markersFitMode='live' as |context|}}
   {{#each model as |house|}}
     {{#g-map-marker context lat=house.lat lng=house.lng   title=house.price icon="/assets/images/heart.png" as |markerContext|}}
