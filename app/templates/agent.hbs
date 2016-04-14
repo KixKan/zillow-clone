@@ -1,7 +1,9 @@
 <h1>Listing Agents</h1>
 
-<div class="container">
+<div class="properties">
   {{#each model.agents as |agent|}}
-    {{agent-tile agent=agent}}
+    <div class="agent-head">
+      {{agent-tile agent=agent}}
+    </div>
   {{/each}}
 </div>
