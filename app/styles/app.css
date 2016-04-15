@@ -37,6 +37,18 @@ img {
   max-height: 300px;
 }
 
+/* Hover */
+.house  {
+  -moz-transition: all 0.1s;
+  -webkit-transition: all 0.1s;
+  transition: all 0.1s;
+}
+.house:hover  {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
 .flex-nav {
   display: flex;
   flex-direction: row;
@@ -160,6 +172,10 @@ img {
    height: 500px;
    margin-bottom: 10px;
    border: 7px solid rgb(220, 220, 220);
+ }
+
+ .agent-h1 {
+   text-align: center;
  }
  /*.properties {
    background-color: #F39C12;
